@@ -11,3 +11,6 @@ Here are some ideas to get you started:
 - 😄 Prefer wolves to dogs and cats.
 - ⚡ I am a vampire myself.
 - 🌱 Witty is what I am.
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allytyson16&theme=dark&layout=compact"/>
